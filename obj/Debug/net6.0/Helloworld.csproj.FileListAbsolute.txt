@@ -1,0 +1,17 @@
+C:\Users\ahliy\csharp_learning\Helloworld\bin\Debug\net6.0\Helloworld.exe
+C:\Users\ahliy\csharp_learning\Helloworld\bin\Debug\net6.0\Helloworld.deps.json
+C:\Users\ahliy\csharp_learning\Helloworld\bin\Debug\net6.0\Helloworld.runtimeconfig.json
+C:\Users\ahliy\csharp_learning\Helloworld\bin\Debug\net6.0\Helloworld.dll
+C:\Users\ahliy\csharp_learning\Helloworld\bin\Debug\net6.0\ref\Helloworld.dll
+C:\Users\ahliy\csharp_learning\Helloworld\bin\Debug\net6.0\Helloworld.pdb
+C:\Users\ahliy\csharp_learning\Helloworld\obj\Debug\net6.0\Helloworld.csproj.AssemblyReference.cache
+C:\Users\ahliy\csharp_learning\Helloworld\obj\Debug\net6.0\Helloworld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahliy\csharp_learning\Helloworld\obj\Debug\net6.0\Helloworld.AssemblyInfoInputs.cache
+C:\Users\ahliy\csharp_learning\Helloworld\obj\Debug\net6.0\Helloworld.AssemblyInfo.cs
+C:\Users\ahliy\csharp_learning\Helloworld\obj\Debug\net6.0\Helloworld.csproj.CoreCompileInputs.cache
+C:\Users\ahliy\csharp_learning\Helloworld\obj\Debug\net6.0\Helloworld.dll
+C:\Users\ahliy\csharp_learning\Helloworld\obj\Debug\net6.0\ref\Helloworld.dll
+C:\Users\ahliy\csharp_learning\Helloworld\obj\Debug\net6.0\Helloworld.pdb
+C:\Users\ahliy\csharp_learning\Helloworld\obj\Debug\net6.0\Helloworld.genruntimeconfig.cache
+C:\Users\ahliy\csharp_learning\Helloworld\bin\Debug\net6.0\Inetlab.SMPP.dll
+C:\Users\ahliy\csharp_learning\Helloworld\obj\Debug\net6.0\Helloworld.csproj.CopyComplete

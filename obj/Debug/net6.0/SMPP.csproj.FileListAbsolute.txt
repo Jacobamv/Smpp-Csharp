@@ -1,0 +1,17 @@
+C:\Users\ahliy\csharp_learning\SMPP\bin\Debug\net6.0\SMPP.exe
+C:\Users\ahliy\csharp_learning\SMPP\bin\Debug\net6.0\SMPP.deps.json
+C:\Users\ahliy\csharp_learning\SMPP\bin\Debug\net6.0\SMPP.runtimeconfig.json
+C:\Users\ahliy\csharp_learning\SMPP\bin\Debug\net6.0\SMPP.dll
+C:\Users\ahliy\csharp_learning\SMPP\bin\Debug\net6.0\ref\SMPP.dll
+C:\Users\ahliy\csharp_learning\SMPP\bin\Debug\net6.0\SMPP.pdb
+C:\Users\ahliy\csharp_learning\SMPP\bin\Debug\net6.0\Inetlab.SMPP.dll
+C:\Users\ahliy\csharp_learning\SMPP\obj\Debug\net6.0\SMPP.csproj.AssemblyReference.cache
+C:\Users\ahliy\csharp_learning\SMPP\obj\Debug\net6.0\SMPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahliy\csharp_learning\SMPP\obj\Debug\net6.0\SMPP.AssemblyInfoInputs.cache
+C:\Users\ahliy\csharp_learning\SMPP\obj\Debug\net6.0\SMPP.AssemblyInfo.cs
+C:\Users\ahliy\csharp_learning\SMPP\obj\Debug\net6.0\SMPP.csproj.CoreCompileInputs.cache
+C:\Users\ahliy\csharp_learning\SMPP\obj\Debug\net6.0\SMPP.csproj.CopyComplete
+C:\Users\ahliy\csharp_learning\SMPP\obj\Debug\net6.0\SMPP.dll
+C:\Users\ahliy\csharp_learning\SMPP\obj\Debug\net6.0\ref\SMPP.dll
+C:\Users\ahliy\csharp_learning\SMPP\obj\Debug\net6.0\SMPP.pdb
+C:\Users\ahliy\csharp_learning\SMPP\obj\Debug\net6.0\SMPP.genruntimeconfig.cache

@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Helloworld/1.0.0": {
+        "dependencies": {
+          "Inetlab.SMPP": "2.9.14"
+        },
+        "runtime": {
+          "Helloworld.dll": {}
+        }
+      },
+      "Inetlab.SMPP/2.9.14": {
+        "runtime": {
+          "lib/netstandard2.0/Inetlab.SMPP.dll": {
+            "assemblyVersion": "2.9.14.2495",
+            "fileVersion": "2.9.14.2495"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Helloworld/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Inetlab.SMPP/2.9.14": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+jOZqrwD6IRX3gg3bUGtTHgHiHFXsEazhXo834xYB8h0EtwoApCizgJsVRHHA/+g7hi4ApmPEXDcoKWXPMBfVA==",
+      "path": "inetlab.smpp/2.9.14",
+      "hashPath": "inetlab.smpp.2.9.14.nupkg.sha512"
+    }
+  }
+}

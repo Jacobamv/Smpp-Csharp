@@ -1,0 +1,103 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Inetlab.SMPP/2.9.14": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Inetlab.SMPP.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Inetlab.SMPP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Inetlab.SMPP/2.9.14": {
+      "sha512": "+jOZqrwD6IRX3gg3bUGtTHgHiHFXsEazhXo834xYB8h0EtwoApCizgJsVRHHA/+g7hi4ApmPEXDcoKWXPMBfVA==",
+      "type": "package",
+      "path": "inetlab.smpp/2.9.14",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "docs/Inetlab.SMPP-Documentation.pdf",
+        "images/icon.png",
+        "inetlab.smpp.2.9.14.nupkg.sha512",
+        "inetlab.smpp.nuspec",
+        "lib/net461/Inetlab.SMPP.dll",
+        "lib/net461/Inetlab.SMPP.xml",
+        "lib/netstandard2.0/Inetlab.SMPP.dll",
+        "lib/netstandard2.0/Inetlab.SMPP.xml",
+        "readme.txt"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Inetlab.SMPP >= 2.9.14"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\ahliy\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\ahliy\\csharp_learning\\SMPP\\SMPP.csproj",
+      "projectName": "SMPP",
+      "projectPath": "C:\\Users\\ahliy\\csharp_learning\\SMPP\\SMPP.csproj",
+      "packagesPath": "C:\\Users\\ahliy\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ahliy\\csharp_learning\\SMPP\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\ahliy\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "Inetlab.SMPP": {
+            "target": "Package",
+            "version": "[2.9.14, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
