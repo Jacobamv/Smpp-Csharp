@@ -40,19 +40,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ahliy\\.nuget\\packages\\": {}
+    "/home/rmstcell/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ahliy\\csharp_learning\\SMPP\\SMPP.csproj",
+      "projectUniqueName": "/home/rmstcell/Smpp-Csharp/SMPP.csproj",
       "projectName": "SMPP",
-      "projectPath": "C:\\Users\\ahliy\\csharp_learning\\SMPP\\SMPP.csproj",
-      "packagesPath": "C:\\Users\\ahliy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ahliy\\csharp_learning\\SMPP\\obj\\",
+      "projectPath": "/home/rmstcell/Smpp-Csharp/SMPP.csproj",
+      "packagesPath": "/home/rmstcell/.nuget/packages/",
+      "outputPath": "/home/rmstcell/Smpp-Csharp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ahliy\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/rmstcell/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -96,7 +96,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
       }
     }
   }

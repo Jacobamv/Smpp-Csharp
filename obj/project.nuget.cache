@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "vlyPyRq3qvFYfXuRCUKH1PQ/yBp6noLi95Bxd3fbc6ZXT4USoinlANtQEBymPoHDQhGkAJ1oQDTwMLU9V75X3Q==",
+  "dgSpecHash": "CUI3tymCMMZU970w2Buw+4LFBxCD4yZJlpzZANZuPoEwDWOeiivqzlv4Tk7DvVuqsUHwRhFYOm/jZqDXhr5YpQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ahliy\\csharp_learning\\SMPP\\SMPP.csproj",
+  "projectFilePath": "/home/rmstcell/Smpp-Csharp/SMPP.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\ahliy\\.nuget\\packages\\inetlab.smpp\\2.9.14\\inetlab.smpp.2.9.14.nupkg.sha512"
+    "/home/rmstcell/.nuget/packages/inetlab.smpp/2.9.14/inetlab.smpp.2.9.14.nupkg.sha512"
   ],
   "logs": []
 }
